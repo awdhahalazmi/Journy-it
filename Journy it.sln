@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journy it api", "Journy it api\Journy it api.csproj", "{2EE073A2-E36F-44CE-9E92-AF1CE11B308A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journey it", "Journey it\Journey it.csproj", "{2A7CA2F8-F14F-4C1A-AD6A-47F31A5E7006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE073A2-E36F-44CE-9E92-AF1CE11B308A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE073A2-E36F-44CE-9E92-AF1CE11B308A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE073A2-E36F-44CE-9E92-AF1CE11B308A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE073A2-E36F-44CE-9E92-AF1CE11B308A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7CA2F8-F14F-4C1A-AD6A-47F31A5E7006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7CA2F8-F14F-4C1A-AD6A-47F31A5E7006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7CA2F8-F14F-4C1A-AD6A-47F31A5E7006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7CA2F8-F14F-4C1A-AD6A-47F31A5E7006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC3E05A-4208-4C68-9B2B-F66E28594008}
+	EndGlobalSection
+EndGlobal
